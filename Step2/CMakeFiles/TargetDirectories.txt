@@ -1,0 +1,6 @@
+/home/ubuntu/cmake/Help/guide/tutorial/Step2/CMakeFiles/rebuild_cache.dir
+/home/ubuntu/cmake/Help/guide/tutorial/Step2/CMakeFiles/Tutorial.dir
+/home/ubuntu/cmake/Help/guide/tutorial/Step2/CMakeFiles/edit_cache.dir
+/home/ubuntu/cmake/Help/guide/tutorial/Step2/MathFunctions/CMakeFiles/rebuild_cache.dir
+/home/ubuntu/cmake/Help/guide/tutorial/Step2/MathFunctions/CMakeFiles/MathFunctions.dir
+/home/ubuntu/cmake/Help/guide/tutorial/Step2/MathFunctions/CMakeFiles/edit_cache.dir
