@@ -1,3 +1,0 @@
-/home/ubuntu/cmake/Help/guide/tutorial/Step1/CMakeFiles/rebuild_cache.dir
-/home/ubuntu/cmake/Help/guide/tutorial/Step1/CMakeFiles/Tutorial.dir
-/home/ubuntu/cmake/Help/guide/tutorial/Step1/CMakeFiles/edit_cache.dir
